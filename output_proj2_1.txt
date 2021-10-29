@@ -1,0 +1,2 @@
+Number of elements found from set A = 1000
+Number of elements found from set B = 7

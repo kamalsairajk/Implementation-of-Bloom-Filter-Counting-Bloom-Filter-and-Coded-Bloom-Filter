@@ -1,0 +1,1 @@
+Number of elements found from set A = 506
